@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Al-attas</h1><br>
+<h1 align="center" style='color=red'>Hi 👋, I'm Ahmed Al-attas</h1><br>
 
 - ## 🧑About Me
 <h3 align="center">👋👨‍💻 I'm Information Technology Engineer with extensive experience in developing applications and websites for computers and smartphone</h3>
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://5a3.github.io/Profile/](https://5a3.github.io/Profile/)
 
-- 📫 How to reach me **aahmedmohammed75gmail.com**or about any **social media program**
+- 📫 How to reach me **aahmedmohammed75gmail.com** or about any **social media program**
 - ## 🛠️ Skills
 -**Programming Languages**: Extensive experience in developing applications using Python, PHP, C#, and Dart<br> 
 -**Databases**: Proficient in using a variety of database systems such as SQL Server, MySQL Oracle, and NoSQL databases<br> 
