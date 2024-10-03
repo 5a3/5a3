@@ -24,14 +24,14 @@
  <a href="https://www.instagram.com/AHMED_ALATTAS910/"style="--i:8"
     <img src="https://img.icons8.com/color/48/000000/instagram.png" alt="instagram" width="40" height="40"/>
   </a>
-    <a href="https://www.snapchat.com/add/a3ats?share_id=RcrITGti-zw&locale=ar-EG"style="--i:8"
+    <a href="https://www.snapchat.com/add/a3ats?share_id=RcrITGti-zw&locale=ar-EG"style="--i:8"</a>
      <img src="https://img.icons8.com/color/48/000000/snapchat" alt="snapchat" width="40" height="40"/>
-     </a>
      
-     <a href="https://api.whatsapp.com/send?phone=+967716226912"style="--i:9"
+     
+     <a href="https://api.whatsapp.com/send?phone=+967716226912"</a>
       <img src="https://img.icons8.com/color/48/000000/whattsap" alt="whattsap" width="40" height="40"/>
-      </a>
-<a href="https://github.com/5a3"style="--i:10"
+      
+<a href="https://github.com/5a3"
 < img src="https://img.icons8.com/color/48/000000/github" alt="github" width="40" height="40"/></a>
                     <a href="https://www.facebook.com/people/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B9%D8%B7%D8%A7%D8%B3/pfbid0k8TmdPYmUZrsdcN5crMQBcBuRWtgyJmn9eMQqTncFbC3ZjviVaaaSiNuAQkRpMpXl/?mibextid=ZbWKwL"
                      < img src="https://img.icons8.com/color/48/000000/facebook" alt="facebook" width="40" height="40"/></a>
