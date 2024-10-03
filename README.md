@@ -13,13 +13,17 @@
 -**Git and GitHub**
 
 - ## 📫 How to reach me
- <div class="home-sci">
- <a href="https://www.instagram.com/AHMED_ALATTAS910/"style="--i:8" target="_blank"><i class='bx bxl-instagram' ></i></a>
-                    <a href="https://www.snapchat.com/add/a3ats?share_id=RcrITGti-zw&locale=ar-EG"style="--i:8" target="_blank"><i class='bx bxl-snapchat' ></i></a>
-                    <a href="https://api.whatsapp.com/send?phone=+967716226912"style="--i:9" target="_blank"><i class='bx bxl-whatsapp'></i></a>
-                    <a href="https://github.com/5a3"style="--i:10" target="_blank"><i class='bx bxl-github'></i></a>
-                    <a href="https://www.facebook.com/people/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B9%D8%B7%D8%A7%D8%B3/pfbid0k8TmdPYmUZrsdcN5crMQBcBuRWtgyJmn9eMQqTncFbC3ZjviVaaaSiNuAQkRpMpXl/?mibextid=ZbWKwL"style="--i:10" target="_blank"><i class='bx bxl-facebook'></i></a>
-                </div>
+ <p align="center">
+  <a href="mailto:aahmedmohammed75gmail.com@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://ye.linkedin.com/in/ahmed-mohammed-alattas-528b8627a?trk=people-guest_people_search-card">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://x.com/dev_muh?t=E0EPARJkRHFTHeppwwnDAw&s=08">
+    <img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="Twitter" width="40" height="40"/>
+  </a>
+</p>
 
 <h2 align="left">💻Languages and Tools:</h2>
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
