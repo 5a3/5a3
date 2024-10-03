@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Al-attas</h1><br>
-<h3 align="center">👋👨‍💻 I'm Information Technology Engineer with extensive experience in developing applications and websites for computers and smartphone</h3>
-<h3 align="center">I'm applecation devloper and website dev</h3><br>
+<h2 align="center">👋👨‍💻 I'm Information Technology Engineer with extensive experience in developing applications and websites for computers and smartphone</h2>
+<h2 align="center">I'm full stack applecation devloper and website</h2><br>
 
 
 - 👨‍💻 All of my projects are available at [https://5a3.github.io/Profile/](https://5a3.github.io/Profile/)
