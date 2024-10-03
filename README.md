@@ -5,8 +5,12 @@
 
 - 👨‍💻 All of my projects are available at [https://5a3.github.io/Profile/](https://5a3.github.io/Profile/)
 
-- 📫 How to reach me **aahmedmohammed75gmail.com**or about any **social media program** 
-- 
+- 📫 How to reach me **aahmedmohammed75gmail.com**or about any **social media program**
+- ## 🛠️ Skills
+-**Programming Languages**: Extensive experience in developing applications using Python, PHP, C#, and Dart 
+-**Databases**: Proficient in using a variety of database systems such as SQL Server, MySQL Oracle, and NoSQL databases  
+-**Frameworks**: Experience in using frameworks Like Flutter for web and mobile application development , good in Laravel and ASP.NET simple way 
+-**Git and GitHub**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
