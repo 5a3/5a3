@@ -27,7 +27,7 @@
     <a href="https://www.snapchat.com/add/a3ats?share_id=RcrITGti-zw&locale=ar-EG"style="--i:8"</a>
      <img src="https://img.icons8.com/color/48/000000/snapchat" alt="snapchat" width="40" height="40"/>
      
-     
+     </a>
      <a href="https://api.whatsapp.com/send?phone=+967716226912"</a>
       <img src="https://img.icons8.com/color/48/000000/whatsapp" alt="whattsap" width="40" height="40"/>
       
