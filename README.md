@@ -14,7 +14,7 @@
 
 - ## 📫 How to reach me
  <div class="home-sci">
-                    <a href="https://www.instagram.com/AHMED_ALATTAS910/"style="--i:8" target="_blank"><i class='bx bxl-instagram' ></i></a>
+ <a href="https://www.instagram.com/AHMED_ALATTAS910/"style="--i:8" target="_blank"><i class='bx bxl-instagram' ></i></a>
                     <a href="https://www.snapchat.com/add/a3ats?share_id=RcrITGti-zw&locale=ar-EG"style="--i:8" target="_blank"><i class='bx bxl-snapchat' ></i></a>
                     <a href="https://api.whatsapp.com/send?phone=+967716226912"style="--i:9" target="_blank"><i class='bx bxl-whatsapp'></i></a>
                     <a href="https://github.com/5a3"style="--i:10" target="_blank"><i class='bx bxl-github'></i></a>
