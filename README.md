@@ -21,8 +21,8 @@
   <a href="https://ye.linkedin.com/in/ahmed-mohammed-alattas-528b8627a?trk=people-guest_people_search-card">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
- <a href="https://www.instagram.com/AHMED_ALATTAS910/"style="--i:8" target="_blank"><i class='bx bxl-instagram' ></a>
-    <img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000/insatgram" alt="instagram" width="40" height="40"/>
+ <a href="https://www.instagram.com/AHMED_ALATTAS910/"style="--i:8"</a>
+    <img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="instagram" width="40" height="40"/>
   </a>
 </p>
 
