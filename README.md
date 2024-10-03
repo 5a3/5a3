@@ -27,7 +27,7 @@
     <a href="https://www.snapchat.com/add/a3ats?share_id=RcrITGti-zw&locale=ar-EG"style="--i:8"</a>
      <img src="https://img.icons8.com/color/48/000000/snapchat" alt="snapchat" width="40" height="40"/>
 
-      <a href="https://www.facebook.com/people/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B9%D8%B7%D8%A7%D8%B3/pfbid0k8TmdPYmUZrsdcN5crMQBcBuRWtgyJmn9eMQqTncFbC3ZjviVaaaSiNuAQkRpMpXl/?mibextid=ZbWKwL"style="--i:8"</a>
+      <a href="https://www.facebook.com/people/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B9%D8%B7%D8%A7%D8%B3/pfbid0k8TmdPYmUZrsdcN5crMQBcBuRWtgyJmn9eMQqTncFbC3ZjviVaaaSiNuAQkRpMpXl/?mibextid=ZbWKwL"</a>
      <img src="https://img.icons8.com/color/48/000000/facebook" alt="facebook" width="40" height="40"/>
     
 </p>
