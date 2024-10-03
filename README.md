@@ -10,10 +10,9 @@
 -**Programming Languages**: Extensive experience in developing applications using Python, PHP, C#, and Dart<br> 
 -**Databases**: Proficient in using a variety of database systems such as SQL Server, MySQL Oracle, and NoSQL databases<br> 
 -**Frameworks**: Experience in using frameworks Like Flutter for web and mobile application development , good in Laravel and ASP.NET simple way<br> 
--**Git and GitHub**
+-**Git and GitHub**<img src="https://img.icons8.com/color/48/000000/github" alt="whatsapp" width="40" height="40"/>
 
 - ## 📫 How to reach me
-- 
  <p align="center">
   <a href="mailto:aahmedmohammed75gmail.com@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="40" height="40"/>
