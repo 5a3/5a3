@@ -2,7 +2,6 @@
 <h3 align="center">👋👨‍💻 I'm Information Technology Engineer with extensive experience in developing applications and websites for computers and smartphone</h3>
 <h3 align="center">I'm applecation devloper and website dev</h3><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5a3" alt="5a3" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://5a3.github.io/Profile/](https://5a3.github.io/Profile/)
 
