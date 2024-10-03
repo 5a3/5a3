@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5a3" alt="5a3" /></a> </p>
 
-- 🌱 I’m currently learning **FLUTTER,LARAVEL**
-
 - 👨‍💻 All of my projects are available at [https://5a3.github.io/Profile/](https://5a3.github.io/Profile/)
 
 - 📫 How to reach me **aahmedmohammed75gmail.com**or about any **social media program** 
