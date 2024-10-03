@@ -3,9 +3,9 @@
 <h3 align="center">I'm full stack applecation devloper and website</h3><br>
 
 
-- 👨‍💻 All of my projects are available at [https://5a3.github.io/Profile/](https://5a3.github.io/Profile/)
+- **👨‍💻 All of my projects are available at [https://5a3.github.io/Profile/](https://5a3.github.io/Profile/)**
 
-- 📫 How to reach me **aahmedmohammed75gmail.com** or about any **social media program**
+- **📫 How to reach me **aahmedmohammed75gmail.com** or about any **social media program****
 - ## 🛠️ Skills
 -**Programming Languages**: Extensive experience in developing applications using Python, PHP, C#, and Dart<br> 
 -**Databases**: Proficient in using a variety of database systems such as SQL Server, MySQL Oracle, and NoSQL databases<br> 
