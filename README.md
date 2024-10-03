@@ -12,13 +12,14 @@
 -**Frameworks**: Experience in using frameworks Like Flutter for web and mobile application development , good in Laravel and ASP.NET simple way<br> 
 -**Git and GitHub**
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://dev.to/ahmed alatas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahmed alatas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmed mohammed alattas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed mohammed alattas" height="30" width="40" /></a>
-<a href="https://fb.com/أحمد العطاس" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="أحمد العطاس" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmed_alattas910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_alattas910" height="30" width="40" /></a>
-</p>
+- ## 📫 How to reach me
+ <div class="home-sci">
+                    <a href="https://www.instagram.com/AHMED_ALATTAS910/"style="--i:8" target="_blank"><i class='bx bxl-instagram' ></i></a>
+                    <a href="https://www.snapchat.com/add/a3ats?share_id=RcrITGti-zw&locale=ar-EG"style="--i:8" target="_blank"><i class='bx bxl-snapchat' ></i></a>
+                    <a href="https://api.whatsapp.com/send?phone=+967716226912"style="--i:9" target="_blank"><i class='bx bxl-whatsapp'></i></a>
+                    <a href="https://github.com/5a3"style="--i:10" target="_blank"><i class='bx bxl-github'></i></a>
+                    <a href="https://www.facebook.com/people/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B9%D8%B7%D8%A7%D8%B3/pfbid0k8TmdPYmUZrsdcN5crMQBcBuRWtgyJmn9eMQqTncFbC3ZjviVaaaSiNuAQkRpMpXl/?mibextid=ZbWKwL"style="--i:10" target="_blank"><i class='bx bxl-facebook'></i></a>
+                </div>
 
 <h2 align="left">💻Languages and Tools:</h2>
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
