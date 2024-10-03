@@ -24,8 +24,9 @@
  <a href="https://www.instagram.com/AHMED_ALATTAS910/"style="--i:8"
     <img src="https://img.icons8.com/color/48/000000/instagram.png" alt="instagram" width="40" height="40"/>
   </a>
-    <a href="https://www.snapchat.com/add/a3ats?share_id=RcrITGti-zw&locale=ar-EG"style="--i:8"</a>
+    <a href="https://www.snapchat.com/add/a3ats?share_id=RcrITGti-zw&locale=ar-EG"style="--i:8"
      <img src="https://img.icons8.com/color/48/000000/snapchat" alt="snapchat" width="40" height="40"/>
+    </a>
 </p>
 
 <h2 align="left">💻Languages and Tools:</h2>
