@@ -29,7 +29,7 @@
      
      
      <a href="https://api.whatsapp.com/send?phone=+967716226912"</a>
-      <img src="https://img.icons8.com/color/48/000000/whattsap" alt="whattsap" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/48/000000/whatsapp" alt="whattsap" width="40" height="40"/>
       
 <a href="https://github.com/5a3"
 < img src="https://img.icons8.com/color/48/000000/github" alt="github" width="40" height="40"/></a>
